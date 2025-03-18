@@ -21,8 +21,7 @@ Este é um aplicativo simples de **Gerenciamento de Tarefas** criado com **Pytho
 
 1. **Clone este repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/gerenciador-de-tarefas.git
-   cd gerenciador-de-tarefas
+   git clone https://github.com/Phithebest/gerenciador-de-tarefas.git
    ```
 2. **Execute o script:**
    ```bash
