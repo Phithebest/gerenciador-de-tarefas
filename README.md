@@ -35,4 +35,4 @@ Este projeto está licenciado sob a **MIT License**. Sinta-se à vontade para us
 
 ---
 
-👨‍💻 Desenvolvido por [Seu Nome](https://seu-portfolio.com)
+👨‍💻 Desenvolvido por [Paulo Henrique](https://seu-portfolio.com)
